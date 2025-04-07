@@ -10,7 +10,7 @@ The project is organized in a Jupyter Notebook (Task_1.ipynb) which performs the
 
 2) Initial Exploration: Basic information about the dataset is examined, including data types and summary statistics.
 
-3)Data Cleaning:
+3) Data Cleaning:
 
 Handling missing values (though none were found initially).
 

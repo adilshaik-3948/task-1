@@ -12,15 +12,15 @@ The project is organized in a Jupyter Notebook (Task_1.ipynb) which performs the
 
 3) Data Cleaning:
 
-Handling missing values (though none were found initially).
+  Handling missing values (though none were found initially).
 
-Removing duplicate rows.
+  Removing duplicate rows.
 
-Standardizing text columns (converting to lowercase and stripping whitespace).
+  Standardizing text columns (converting to lowercase and stripping whitespace).
 
-Cleaning column names (converting to lowercase and replacing spaces with hyphens).
+  Cleaning column names (converting to lowercase and replacing spaces with hyphens).
 
-Converting data types for consistency (e.g., postal codes to strings).
+  Converting data types for consistency (e.g., postal codes to strings).
 
 4) Exporting Cleaned Data: The cleaned dataset is saved as a new CSV file (cleaned_sample_superstore.csv).
 
@@ -36,16 +36,18 @@ Converting data types for consistency (e.g., postal codes to strings).
 5) Data Type Conversion: Columns like Postal Code were converted to strings, and numeric columns were ensured to have the correct data types.
 
 ## Output
-The cleaned dataset (cleaned_sample_superstore.csv) is ready for further analysis or visualization.
+  The cleaned dataset (cleaned_sample_superstore.csv) is ready for further analysis or visualization.
 
 ## user guide
-Clone the repository.
+  Clone the repository.
 
-Open the Jupyter Notebook (adil.ipynb) to see the step-by-step cleaning process.
+  Open the Jupyter Notebook (adil.ipynb) to see the step-by-step cleaning process.
 
-Use the cleaned dataset (cleaned_sample_superstore.csv) for your analysis.
+  Use the cleaned dataset (cleaned_sample_superstore.csv) for your analysis.
 
 ## Requirments
 Python 3.10 and above
+
 pandas
+
 Jupyter Notebook
